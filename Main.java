@@ -1,10 +1,9 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main
-{
-    public static class Sommet{
-
-    }
-    public static class Arret{
-
-    }
+{public static void main(String args[]){
     
+}    
 }
+
